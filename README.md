@@ -3,7 +3,7 @@
 ## I’m interested in 👀
 How web development and technology can make powerful tools for positive change, particularly for charitable organisations and social enterprise.
 
-## I’m currently learning 🌱
+## I’ve just completed a course in 🌱
 Front-End Web development through a bootcamp (edX).
 
 ## I’m looking to collaborate on 💞️
