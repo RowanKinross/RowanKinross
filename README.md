@@ -1,17 +1,10 @@
-# ✨ Hey, I’m Rowan 👋 ✨
+# Hi, I’m Rowan (@RowanKinross)
+## 📊 Aspiring Data Scientist for Climate Action/Sustainability Applications | Full-Stack Developer & Designer
+### I’m a developer transitioning from Front-End Web Development into the world of Applied Data Science. My goal is to build data-driven solutions that address pressing social and environmental challenges.
 
-## I’m interested in 👀
-How web development and technology can make powerful tools for positive change, particularly for charitable organisations and social enterprise.
+## 💞️ Looking to Collaborate: On progressive Open Source projects related to climate tech, sustainability, or social enterprise.
 
-## I’ve just completed a course in 🌱
-Front-End Web development through a bootcamp (edX).
-
-## I’m looking to collaborate on 💞️
-Progressive social and environmental projects.
-
-## How to reach me 📫
-Here (@RowanKinross).
-
+## 📫 Reach me: Find me here on GitHub
 
 <!---
 RowanKinross/RowanKinross is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
