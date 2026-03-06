@@ -8,7 +8,7 @@ On progressive Open Source projects related to climate tech, sustainability, or 
 
 
 ## 📫 Reach me: 
-here on GitHub
+Here on GitHub.
 
 
 <!---
